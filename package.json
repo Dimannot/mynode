@@ -1,0 +1,28 @@
+{
+  "name": "mynode",
+  "version": "0.0.1",
+  "description": "A sample Node.js app using Express 4",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Dimannot/mynode"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Devellight",
+  "contributors": [
+    "Dmitrii Dlight <info@devellight.ru> (http://devellight.ru)"
+  ],
+  "license": "MIT"
+}
