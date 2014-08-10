@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
+  "config" : { 
+  	"port" : "49153" 
+  },
   "scripts": {
     "start": "node index.js"
   },
@@ -20,7 +23,7 @@
     "node",
     "express"
   ],
-  "author": "Devellight",
+  "author": "Dimannot",
   "contributors": [
     "Dmitrii Dlight <info@devellight.ru> (http://devellight.ru)"
   ],
